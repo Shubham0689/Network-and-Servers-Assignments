@@ -17,15 +17,15 @@ Before starting, ensure you have the following:
 
 ## Setup and Deployment
 
-### Step 1: Install Nginx
+### Step Implemented: Login Page Running on Local Host Server
 
 1. Update the system packages:
 
    ```bash
     sudo apt update
-2.  sudo systemctl status nginx
+2.  sudo service status nginx
 3. Copy index.html
-    sudo cp ~/login_page_project/index.html /var/www/html/
+    sudo cp ~/Network and Server Assignment/index.html /var/www/html/
 4. Ensure the permissions are give:
     sudo chown www-data:www-data /var/www/html/index.html
     sudo chmod 644 /var/www/html/index.html
