@@ -16,5 +16,5 @@ Before running the script, ensure you have the following:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/your_repository.git
-cd your_repository
+git https://github.com/Shubham0689/Network-and-Servers-Assignments
+cd https://github.com/Shubham0689/Network-and-Servers-Assignments # Where you have kept the local repo on the system 
